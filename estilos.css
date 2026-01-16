@@ -1,0 +1,11 @@
+
+/* estilos.css — opcional */
+:root {
+  --azul: #1f4b99;
+  --azul-10: #eef3ff;
+  --fondo: #f6f7fb;
+  --texto: #222;
+}
+* { box-sizing: border-box; }
+body { font-family: Arial, sans-serif; background: var(--fondo); color: var(--texto); }
+a { color: var(--azul); }
